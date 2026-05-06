@@ -3,4 +3,9 @@ A simple and elegant web project that displays a scroll progress indicator while
 
 Live Demo - 
 
-
+🚀 Features
+📈 Real-time scroll progress indicator
+🎯 Smooth and responsive UI
+📖 Clean reading layout
+⚡ Lightweight and fast
+💻 Fully responsive design
