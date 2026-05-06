@@ -9,3 +9,8 @@ Live Demo -
 📖 Clean reading layout
 ⚡ Lightweight and fast
 💻 Fully responsive design
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
