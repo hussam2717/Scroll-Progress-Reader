@@ -19,3 +19,8 @@ JavaScript
 ├── index.html
 ├── style.css
 ├── script.js
+
+⚙️ How It Works
+Tracks the user's scroll position
+Calculates the percentage of page scrolled
+Updates the progress indicator dynamically
