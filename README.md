@@ -24,3 +24,11 @@ JavaScript
 Tracks the user's scroll position
 Calculates the percentage of page scrolled
 Updates the progress indicator dynamically
+
+
+🧠 Use Case
+This project is useful for:
+Blog websites
+Article pages
+Documentation sites
+News platforms
