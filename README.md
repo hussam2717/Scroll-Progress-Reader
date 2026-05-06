@@ -32,3 +32,9 @@ Blog websites
 Article pages
 Documentation sites
 News platforms
+
+✨ Future Improvements
+Add reading time estimation
+Dark/Light mode toggle
+Animated progress bar styles
+Save reading progress (localStorage)
