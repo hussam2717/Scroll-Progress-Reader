@@ -1,7 +1,7 @@
 # Scroll-Progress-Reader
 A simple and elegant web project that displays a scroll progress indicator while reading content. It enhances user experience by visually showing how much of the page has been read.
 
-Live Demo - 
+Live Demo - https://hussam2717.github.io/Scroll-Progress-Reader/
 
 🚀 Features
 📈 Real-time scroll progress indicator
