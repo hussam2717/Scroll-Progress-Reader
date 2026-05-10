@@ -3,37 +3,37 @@ A simple and elegant web project that displays a scroll progress indicator while
 
 Live Demo - https://hussam2717.github.io/Scroll-Progress-Reader/
 
-🚀 Features
+## 🚀 Features
 📈 Real-time scroll progress indicator
 🎯 Smooth and responsive UI
 📖 Clean reading layout
 ⚡ Lightweight and fast
 💻 Fully responsive design
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5
 CSS3
 JavaScript
 
-📂 Project Structure
+## 📂 Project Structure
 ├── index.html
 ├── style.css
 ├── script.js
 
-⚙️ How It Works
+## ⚙️ How It Works
 Tracks the user's scroll position
 Calculates the percentage of page scrolled
 Updates the progress indicator dynamically
 
 
-🧠 Use Case
+## 🧠 Use Case
 This project is useful for:
 Blog websites
 Article pages
 Documentation sites
 News platforms
 
-✨ Future Improvements
+## ✨ Future Improvements
 Add reading time estimation
 Dark/Light mode toggle
 Animated progress bar styles
